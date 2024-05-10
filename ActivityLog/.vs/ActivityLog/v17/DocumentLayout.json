@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bogdan\\source\\repos\\ActivityLog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88685A4F-21E0-48E0-8682-A1B4C1D28D27}|ActivityLog\\ActivityLog.csproj|c:\\users\\bogdan\\source\\repos\\activitylog\\activitylog\\cache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88685A4F-21E0-48E0-8682-A1B4C1D28D27}|ActivityLog\\ActivityLog.csproj|solutionrelative:activitylog\\cache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88685A4F-21E0-48E0-8682-A1B4C1D28D27}|ActivityLog\\ActivityLog.csproj|c:\\users\\bogdan\\source\\repos\\activitylog\\activitylog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88685A4F-21E0-48E0-8682-A1B4C1D28D27}|ActivityLog\\ActivityLog.csproj|solutionrelative:activitylog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88685A4F-21E0-48E0-8682-A1B4C1D28D27}|ActivityLog\\ActivityLog.csproj|c:\\users\\bogdan\\source\\repos\\activitylog\\activitylog\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88685A4F-21E0-48E0-8682-A1B4C1D28D27}|ActivityLog\\ActivityLog.csproj|solutionrelative:activitylog\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88685A4F-21E0-48E0-8682-A1B4C1D28D27}|ActivityLog\\ActivityLog.csproj|c:\\users\\bogdan\\source\\repos\\activitylog\\activitylog\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88685A4F-21E0-48E0-8682-A1B4C1D28D27}|ActivityLog\\ActivityLog.csproj|solutionrelative:activitylog\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88685A4F-21E0-48E0-8682-A1B4C1D28D27}|ActivityLog\\ActivityLog.csproj|c:\\users\\bogdan\\source\\repos\\activitylog\\activitylog\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88685A4F-21E0-48E0-8682-A1B4C1D28D27}|ActivityLog\\ActivityLog.csproj|solutionrelative:activitylog\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88685A4F-21E0-48E0-8682-A1B4C1D28D27}|ActivityLog\\ActivityLog.csproj|c:\\users\\bogdan\\source\\repos\\activitylog\\activitylog\\env.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88685A4F-21E0-48E0-8682-A1B4C1D28D27}|ActivityLog\\ActivityLog.csproj|solutionrelative:activitylog\\env.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88685A4F-21E0-48E0-8682-A1B4C1D28D27}|ActivityLog\\ActivityLog.csproj|c:\\users\\bogdan\\source\\repos\\activitylog\\activitylog\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88685A4F-21E0-48E0-8682-A1B4C1D28D27}|ActivityLog\\ActivityLog.csproj|solutionrelative:activitylog\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 329,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Env.cs",
+              "DocumentMoniker": "C:\\Users\\Bogdan\\source\\repos\\ActivityLog\\ActivityLog\\Env.cs",
+              "RelativeDocumentMoniker": "ActivityLog\\Env.cs",
+              "ToolTip": "C:\\Users\\Bogdan\\source\\repos\\ActivityLog\\ActivityLog\\Env.cs",
+              "RelativeToolTip": "ActivityLog\\Env.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T21:36:53.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\Bogdan\\source\\repos\\ActivityLog\\ActivityLog\\Result.cs",
+              "RelativeDocumentMoniker": "ActivityLog\\Result.cs",
+              "ToolTip": "C:\\Users\\Bogdan\\source\\repos\\ActivityLog\\ActivityLog\\Result.cs",
+              "RelativeToolTip": "ActivityLog\\Result.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T21:34:59.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\Bogdan\\source\\repos\\ActivityLog\\ActivityLog\\Event.cs",
+              "RelativeDocumentMoniker": "ActivityLog\\Event.cs",
+              "ToolTip": "C:\\Users\\Bogdan\\source\\repos\\ActivityLog\\ActivityLog\\Event.cs",
+              "RelativeToolTip": "ActivityLog\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T21:34:13.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\Bogdan\\source\\repos\\ActivityLog\\ActivityLog\\Extensions.cs",
+              "RelativeDocumentMoniker": "ActivityLog\\Extensions.cs",
+              "ToolTip": "C:\\Users\\Bogdan\\source\\repos\\ActivityLog\\ActivityLog\\Extensions.cs",
+              "RelativeToolTip": "ActivityLog\\Extensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T21:33:04.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cache.cs",
+              "DocumentMoniker": "C:\\Users\\Bogdan\\source\\repos\\ActivityLog\\ActivityLog\\Cache.cs",
+              "RelativeDocumentMoniker": "ActivityLog\\Cache.cs",
+              "ToolTip": "C:\\Users\\Bogdan\\source\\repos\\ActivityLog\\ActivityLog\\Cache.cs",
+              "RelativeToolTip": "ActivityLog\\Cache.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T21:31:44.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bogdan\\source\\repos\\ActivityLog\\ActivityLog\\Program.cs",
+              "RelativeDocumentMoniker": "ActivityLog\\Program.cs",
+              "ToolTip": "C:\\Users\\Bogdan\\source\\repos\\ActivityLog\\ActivityLog\\Program.cs",
+              "RelativeToolTip": "ActivityLog\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowBMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T21:28:44.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Bogdan\\source\\repos\\ActivityLog\\ActivityLog\\Author.cs",
+              "RelativeDocumentMoniker": "ActivityLog\\Author.cs",
+              "ToolTip": "C:\\Users\\Bogdan\\source\\repos\\ActivityLog\\ActivityLog\\Author.cs",
+              "RelativeToolTip": "ActivityLog\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T21:31:14.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

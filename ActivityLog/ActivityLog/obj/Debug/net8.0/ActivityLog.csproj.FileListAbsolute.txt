@@ -1,0 +1,17 @@
+C:\Users\Bogdan\source\repos\ActivityLog\ActivityLog\obj\Debug\net8.0\ActivityLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdan\source\repos\ActivityLog\ActivityLog\obj\Debug\net8.0\ActivityLog.AssemblyInfoInputs.cache
+C:\Users\Bogdan\source\repos\ActivityLog\ActivityLog\obj\Debug\net8.0\ActivityLog.AssemblyInfo.cs
+C:\Users\Bogdan\source\repos\ActivityLog\ActivityLog\obj\Debug\net8.0\ActivityLog.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\source\repos\ActivityLog\ActivityLog\bin\Debug\net8.0\ActivityLog.exe
+C:\Users\Bogdan\source\repos\ActivityLog\ActivityLog\bin\Debug\net8.0\ActivityLog.deps.json
+C:\Users\Bogdan\source\repos\ActivityLog\ActivityLog\bin\Debug\net8.0\ActivityLog.runtimeconfig.json
+C:\Users\Bogdan\source\repos\ActivityLog\ActivityLog\bin\Debug\net8.0\ActivityLog.dll
+C:\Users\Bogdan\source\repos\ActivityLog\ActivityLog\bin\Debug\net8.0\ActivityLog.pdb
+C:\Users\Bogdan\source\repos\ActivityLog\ActivityLog\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Bogdan\source\repos\ActivityLog\ActivityLog\obj\Debug\net8.0\ActivityLog.csproj.AssemblyReference.cache
+C:\Users\Bogdan\source\repos\ActivityLog\ActivityLog\obj\Debug\net8.0\Activity.E43679A5.Up2Date
+C:\Users\Bogdan\source\repos\ActivityLog\ActivityLog\obj\Debug\net8.0\ActivityLog.dll
+C:\Users\Bogdan\source\repos\ActivityLog\ActivityLog\obj\Debug\net8.0\refint\ActivityLog.dll
+C:\Users\Bogdan\source\repos\ActivityLog\ActivityLog\obj\Debug\net8.0\ActivityLog.pdb
+C:\Users\Bogdan\source\repos\ActivityLog\ActivityLog\obj\Debug\net8.0\ActivityLog.genruntimeconfig.cache
+C:\Users\Bogdan\source\repos\ActivityLog\ActivityLog\obj\Debug\net8.0\ref\ActivityLog.dll
